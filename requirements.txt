@@ -1,0 +1,14 @@
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard>=1.15.0
+tqdm
+opencv-python
+pytorch-lightning==1.3.5 
+pillow 
+scikit-image 
+lpips 
+kornia 
+warmup_scheduler 
+test-tube 
